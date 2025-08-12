@@ -20,8 +20,9 @@ To create a fair, transparent, and censorship-resistant platform where every com
 - **Execution Layer:** Allow automatic execution of approved recommendations.
 - **Incentive Mechanism:** Reward contributors and voters with tokens.
 
-## 5. Contract Address
+## 5. Contract 
 <img width="763" height="578" alt="image" src="https://github.com/user-attachments/assets/a173723f-4251-4a01-9dd0-edd4ac7e9c3f" />
 
-Contract Address : STAHAY9T5BJ33ATW21RYP965XND3CTY2526K9NN9.Recommendation-DAO  
+## 6. Contract Address 
+STAHAY9T5BJ33ATW21RYP965XND3CTY2526K9NN9.Recommendation-DAO  
 
