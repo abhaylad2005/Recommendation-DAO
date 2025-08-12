@@ -21,4 +21,5 @@ To create a fair, transparent, and censorship-resistant platform where every com
 - **Incentive Mechanism:** Reward contributors and voters with tokens.
 
 ## 5. Contract Address
-`SPXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.recommendation-dao`
+<img width="763" height="578" alt="image" src="https://github.com/user-attachments/assets/a173723f-4251-4a01-9dd0-edd4ac7e9c3f" />
+
